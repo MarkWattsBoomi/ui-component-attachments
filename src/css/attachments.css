@@ -1,0 +1,207 @@
+.at-control
+{
+    border: 1px solid rgb(151, 149, 149);
+}
+
+.at-header
+{
+    background-color: #000000;
+    color: #fefefe;
+}
+
+.at-header-title
+{
+    vertical-align: sub;
+    margin-left: 10px;
+    font-size: 16pt;
+}
+
+.at-header-button
+{
+    font-size: 12pt;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.at-body
+{
+    background-color:#fefefe;
+}
+
+.at-table
+{
+    width: 100%;
+}
+
+.at-thead
+{
+    background-color: #bbbbbb;
+}
+
+.at-thead-row
+{
+    background-color: #bbbbbb;
+}
+
+.at-column-header
+{
+    padding-left: 20px !important;
+    border-right: 1px solid #000000;
+    padding-right: 20px !important;
+    text-align: center;
+    white-space:nowrap
+}
+.at-column-header:last-child
+{
+    border-right: none;
+    width: 100%;
+}
+
+.at-tbody
+{
+
+}
+
+.at-tbody-row
+{
+
+}
+
+.at-tbody-row-cell
+{
+    padding-left: 20px !important;
+    border-right: 1px solid #000000;
+    padding-right: 20px !important;
+    text-align: center;
+    white-space:nowrap
+}
+
+.at-tbody-row-cell:last-child
+{
+    border-right: none;
+}
+
+/* at List Styles */
+
+.at-list
+{
+    width: 100%;
+    height:100%;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.at-list-header
+{
+    background-color: #000000;
+    display: inline-block;
+    width: 100%;
+}
+
+.at-list-header-title
+{
+    color: #fefefe;
+    font-size: 16pt;
+    margin-left: 20px;
+}
+
+.at-list-header-button
+{
+    color: #fefefe;
+    font-size: 16pt;
+    margin-right: 10px;
+    top: -1px !important;
+    line-height: unset !important;
+    cursor: pointer;
+}
+
+.at-list-body
+{
+    background-color: #fefefe;
+    min-height: 30px;
+}
+
+.at-no-attachements
+{
+    text-align: center;
+    font-size: 16pt;
+    color: #666;
+}
+.at-bubble
+{
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    min-height: 10px;
+    box-sizing: content-box;
+}
+
+.at-bubble-client
+{
+    border-radius: 5px;
+    background-color: #fefefe;
+}
+
+.at-bubble-client-header
+{
+    background-color: #dddddd;
+    border-radius: 5px 5px 0px 0px;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+}
+
+.at-bubble-client-header-span
+{
+    font-size: 12pt;
+    color: #bb2e2e;
+    margin-left: 20px;
+}
+
+.delete-at-button
+{
+    color: #000000;
+    font-size: 12pt;
+    margin-right: 10px;
+    top: -1px !important;
+    line-height: unset !important;
+    cursor: pointer;
+}
+
+.at-bubble-client-body
+{
+    background-color: #fefefe;
+    border-radius: 0px 0px 5px 5px ;
+    margin: 0;
+    min-height: 10px;
+}
+
+.at-bubble-client-body-span
+{
+    font-size: 12pt;
+    color: #000000;
+    margin-left: 30px;
+}
+
+.attachment-title {
+    padding-left: 10px;
+    font-size: 16pt;
+    font-weight: bold;
+    color: #333;
+}
+
+.attachment-date {
+    padding-left: 10px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.attachment-file {
+    padding-left: 10px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+
+
+
